@@ -2,6 +2,8 @@
 
 This repository implements a simple Kafka message display UI with incorporated Producer for adding a configurable volume of messages to the queue.
 
+The application currently runs locally as a Springboot application.  It will be dockerized.
+
 ---
 
 ## Components
