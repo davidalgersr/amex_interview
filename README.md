@@ -1,8 +1,8 @@
 # KAFKA MESSAGE DISPLAY UI
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+This repository implements a simple Kafka message display UI with incorporated Producer for adding a configurable volume of messages to the queue.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+The application currently runs locally as a Springboot application.  It will be dockerized.
 
 ---
 
