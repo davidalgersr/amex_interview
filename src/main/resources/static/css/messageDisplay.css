@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.pageTitle {
+    color: blue;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 3em;
+    padding: 0.5em;
+}
+
+div.displayArea {
+	height: 400px;
+	overflow-y:auto;
+	border-style: solid;
+	border-color: black;
+}
+
+div.incoming-message {
+    color: blue;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1em;
+    padding: 0.5em;
+}
